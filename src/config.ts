@@ -12,7 +12,7 @@ export interface PageConfig {
 
 const baseConfig: PageConfig = {
   title: "Descubra Como Curar la Selectividad Alimentaria de Tu Hijo(a) en 4 días",
-  description: "Cómo superar definitivamente el miedo a los alimentos nuevos",
+  description: "Cómo superar definitivamente el miedo aaaaaaaaa a los alimentos nuevos",
   whatsappNumber: "5585981173668",
   contentDelay: 60000, // 60 seconds
   ctaText: "Quiero curar a mi hijo",
